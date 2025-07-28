@@ -43,7 +43,7 @@ I.  INSTALL INSTRUCTIONS
    
    Or without root permission:
 
-       R CMD INSTALL -l /PATH/TO/FOLDER/epror_1.1.tar.gz
+       R CMD INSTALL -l /PATH/TO/FOLDER/ epror_1.1.tar.gz
    
 
 II.  BRIEF DESCRIPTION
