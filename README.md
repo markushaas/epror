@@ -50,7 +50,7 @@ II.  BRIEF DESCRIPTION
 
 epror is an R package to analyze data from express profiling experiments
 from a Beckman Coulter /Sciex CEQ8800 capillary electrophoresis system.
-For details please check the manual epror.pdf. Please also try the sample
+For details please check the manual [manual](epror.pdf). Please also try the sample
 data in the file exampledata.tar.gz. The sample data was kindly provided 
 by Sophie Pabel.
 
