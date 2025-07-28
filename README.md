@@ -39,11 +39,11 @@ I.  INSTALL INSTRUCTIONS
 3. Unzip or untar file.
 4. Install the package as root:
    
-      R CMD INSTALL epror_1.1.tar.gz
+       R CMD INSTALL epror_1.1.tar.gz
    
    Or without root permission:
 
-      R CMD INSTALL -l /PATH/TO/FOLDER/epror_1.1.tar.gz
+       R CMD INSTALL -l /PATH/TO/FOLDER/epror_1.1.tar.gz
    
 
 II.  BRIEF DESCRIPTION
