@@ -8,18 +8,18 @@ epror is an R package for analyzing experimental data obtained with
 express profiling from a Beckman Coulter, Inc or Sciex CEQ8800 capillary
 electrophoresis device.
 
-    epror is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
+epror is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free
+Software Foundation, either version 3 of the License, or (at your
+option) any later version.
 
-    epror is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
+epror is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License
+for more details.
 
-    You should have received a copy of the GNU General Public License
-    along with epror. If not, see <http://www.gnu.org/licenses/>.
+You should have received a copy of the GNU General Public License along
+with epror. If not, see <http://www.gnu.org/licenses/>.
 
 
 
@@ -38,11 +38,12 @@ I.  INSTALL INSTRUCTIONS
    
 3. Unzip or untar file.
 4. Install the package as root:
+   
       R CMD INSTALL epror_1.1.tar.gz
    
    Or without root permission:
 
-   R CMD INSTALL -l /PATH/TO/FOLDER/epror_1.1.tar.gz
+      R CMD INSTALL -l /PATH/TO/FOLDER/epror_1.1.tar.gz
    
 
 II.  BRIEF DESCRIPTION
