@@ -1,5 +1,5 @@
 # epror
-Copyright notice: 
+Copyright notice<br/>
 Copyright 2025 Markus Haas
 
 Statement of copying permission
