@@ -33,11 +33,11 @@ III. CONTACT INFORMATION
 I.  INSTALL INSTRUCTIONS
 
 1. Download zip-file or tarball from github:
-   ``wget https://github.com/markushaas/epror/archive/master.tar.gz''
+   "wget https://github.com/markushaas/epror/archive/master.tar.gz"
 2. Unzip or untar file.
-3. Install the package as root ``R CMD INSTALL epror_1.1.tar.gz''
-   or without root permission ``R CMD INSTALL -l /PATH/TO/FOLDER/
-   epror_1.1.tar.gz''.
+3. Install the package as root "R CMD INSTALL epror_1.1.tar.gz"
+   or without root permission "R CMD INSTALL -l /PATH/TO/FOLDER/
+   epror_1.1.tar.gz".
 
 II.  BRIEF DESCRIPTION
 
